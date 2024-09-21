@@ -1,0 +1,2 @@
+# Root-Cleaner
+Clean log.
